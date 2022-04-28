@@ -6,6 +6,10 @@ public class LoginTest_Mesut {
 
         System.out.println(" AC1 testing is PASSED ");
 
+        System.out.println(" AC2 testing is completed ");
+
+
+
     }
 
 }
