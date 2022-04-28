@@ -4,6 +4,8 @@ public class LoginTest_Mesut {
 
         System.out.println(" Login class is created " );
 
+        System.out.println(" AC1 testing is PASSED ");
+
     }
 
 }
